@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm\Algorithm.vcxproj", "{E44430CC-76C4-471D-B030-1BF73ED9C1C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "think_test", "think_test\think_test.vcxproj", "{1D85E776-A17F-458F-934F-C448E3BD68A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E44430CC-76C4-471D-B030-1BF73ED9C1C1}.Release|x64.Build.0 = Release|x64
 		{E44430CC-76C4-471D-B030-1BF73ED9C1C1}.Release|x86.ActiveCfg = Release|Win32
 		{E44430CC-76C4-471D-B030-1BF73ED9C1C1}.Release|x86.Build.0 = Release|Win32
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Debug|x64.ActiveCfg = Debug|x64
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Debug|x64.Build.0 = Debug|x64
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Debug|x86.Build.0 = Debug|Win32
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Release|x64.ActiveCfg = Release|x64
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Release|x64.Build.0 = Release|x64
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Release|x86.ActiveCfg = Release|Win32
+		{1D85E776-A17F-458F-934F-C448E3BD68A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
